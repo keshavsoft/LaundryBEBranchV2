@@ -136,7 +136,6 @@ dist
 .pnp.*
 
 Data/
-public/
 
 .vscode
 
